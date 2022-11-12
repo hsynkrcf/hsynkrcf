@@ -22,6 +22,6 @@
 </div>
 <hr>
   
- ## :snake: - :snake:
+ ## :snake: - :snake: - ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhsynkrcf&countColor=%2337d67a&style=plastic&labelStyle=upper)
   
 ![snake svg](https://github.com/hsynkrcf/hsynkrcf/blob/output/github-contribution-grid-snake.svg)
