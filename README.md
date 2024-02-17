@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AA00F7&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+Name+Is+H%C3%BCseyin+Karacif;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 ## Hüseyin Karacif
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over four years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools. <br/><br/>
     
@@ -13,15 +13,15 @@
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="25" height="25">    Continuous Learning
+## <img src="https://github.com/hsynkrcf/hsynkrcf/blob/7cb858de92084d0f1d73aafed66dfac17cf07912/assets/learn.gif?raw=true" width="35" height="35">    Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
-<img src="https://github.com/hsynkrcf/hsynkrcf/blob/26415df7b03fc1c803fdbca279522863bd28e591/assets/connect.gif?raw=true" width="25" height="25">   Let's connect and create something awesome together!
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="20" height="20">   Let's connect and create something awesome together!
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left"><img src="https://github.com/hsynkrcf/hsynkrcf/blob/26415df7b03fc1c803fdbca279522863bd28e591/assets/learn.gif?raw=true" width="25" height="25"> Socials:</h3> 
+<h3 align="left"><img src="https://github.com/hsynkrcf/hsynkrcf/blob/7cb858de92084d0f1d73aafed66dfac17cf07912/assets/connect.png?raw=True" width="25" height="25"> Socials:</h3> 
 <p align="left">
   <a href="mailto:hsynkrcf@gmail.com" alt="Hüseyin Karacif">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
