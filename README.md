@@ -17,18 +17,20 @@ Coding is not just a job for me; it's a journey of continuous learning and growt
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="20" height="20">   Let's connect and create something awesome together!
+<img src="https://github.com/hsynkrcf/hsynkrcf/blob/5ae233b64e20c591a5692c0563cd9be7ee769f0a/assets/connect.png?raw=true" width="25" height="25">   Let's connect and create something awesome together!
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h3 align="left"><img src="https://github.com/hsynkrcf/hsynkrcf/blob/7cb858de92084d0f1d73aafed66dfac17cf07912/assets/connect.png?raw=True" width="25" height="25"> Socials:</h3> 
 <p align="left">
   <a href="mailto:hsynkrcf@gmail.com" alt="Hüseyin Karacif">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="https://www.linkedin.com/in/huseyin-karacif/" alt="Hüseyin Karacif">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
+<a href="https://discordapp.com/users/518553717377728533" alt="kedibilo">
+  <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
+  </a>
 </p>  
 
 <h3> <img src="https://github.com/hsynkrcf/hsynkrcf/blob/26415df7b03fc1c803fdbca279522863bd28e591/assets/techstack.gif?raw=true" width="25" height="25">  Tech Stack: </h3>
